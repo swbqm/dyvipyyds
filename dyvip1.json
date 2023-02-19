@@ -1,6 +1,6 @@
 {
     "sites": [
-        {"key":"91md","name":"密码泄露，请在公众号：大眼宝藏 回复福利重新获取，已赞赏用户联系微信：DAYANTH666获取","type":1,"api":"https","searchable":1,"quickSearch":1,"filterable":0}
+	    {"key":"Kunyu77","name":"密码泄露，请在公众号：大眼宝藏 回复福利重新获取，已赞赏用户联系微信：DAYANTH666获取","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
   ],
 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dyzy/main/jar/20221108.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
   "lives": [
