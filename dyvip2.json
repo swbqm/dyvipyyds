@@ -1,6 +1,6 @@
 {
     "sites": [
-	    {"key":"Kunyu77","name":"福利在公众号大眼宝藏回复福利重新获取，赞赏用户后台联系","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
+	    {"key":"Kunyu77","name":"福利在公众号大眼宝箱回复福利重新获取，赞赏用户后台联系","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
   ],
 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dyzy/main/jar/20221108.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
   "lives": [
